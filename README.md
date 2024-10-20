@@ -6,4 +6,4 @@ Thanks for visiting my Bayesian respository.
 
 In this repository, I learn how to do bayesian on the titanic dataset.
 
-This tutorial was from freecodecamp
+This tutorial was from freecodecamp. 
